@@ -1,7 +1,7 @@
-# Book Tracker Application
+# Book List Application
 
 ## Overview
-The Book Tracker is a simple React application that allows users to add, search, edit, and delete books. It uses Redux for state management and Material-UI for styling.
+The Book List is a simple React application that allows users to add, search, edit, and delete books. It uses Redux for state management and Material-UI for styling.
 
 ## Technologies Used
 - React
